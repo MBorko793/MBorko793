@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MBorko793
 - 👀 I’m interested in game development as well as mobile/web app development.
-- 🌱 I’m currently learning javascript in hopes to jumpstart my journey in becoming a full stack developer.
+- 🌱 I’m currently learning everything ;).
 - 📫 How to reach me ...
 
 <!---
